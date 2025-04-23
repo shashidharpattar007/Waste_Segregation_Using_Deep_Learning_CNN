@@ -1,0 +1,1 @@
+# Waste_Segregation_Using_Deep_Learning_CNN
