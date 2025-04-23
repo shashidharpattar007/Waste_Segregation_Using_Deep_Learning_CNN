@@ -43,6 +43,22 @@ Training curves for accuracy and loss clearly showed improved convergence after 
 
 - **Training Accuracy** and **Validation Accuracy** improved steadily.
 - **Training Loss** and **Validation Loss** decreased as expected without overfitting.
+  
+  ### **Sequential Model**
+  ![SequentialModel](https://github.com/user-attachments/assets/a57b8097-f201-437b-a699-49471c722389)
+
+  ### **Sequential Model After Image Augmentation**
+  ![SequentialModelAfterAugmentation](https://github.com/user-attachments/assets/db0aa740-53cc-476b-b642-8b99c02d35f7)
+
+  ### **VGG16 Transfer Learning**
+  ![VGG16_TransferLearning](https://github.com/user-attachments/assets/e854e7d0-0d7f-4bcd-8350-91ae8b548f24)
+
+  ### **VGG16 Fine Tuning**
+  ![VGG16_FineTuning](https://github.com/user-attachments/assets/b22fa1c2-363c-4130-8a6c-e42993703d16)
+
+
+
+
 
 ---
 
